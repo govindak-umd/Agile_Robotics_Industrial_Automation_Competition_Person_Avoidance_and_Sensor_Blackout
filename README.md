@@ -2,6 +2,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Videos
+
+[Video 1](https://youtu.be/DbxpUw12As4) </br>
+[Video 2](https://youtu.be/JfT_rkOfotc) </br>
 ## Team members
 1. Pradeep Gopal
 2. Rajesh 
